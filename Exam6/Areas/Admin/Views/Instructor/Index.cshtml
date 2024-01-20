@@ -1,0 +1,52 @@
+﻿@model IEnumerable<InstructorListItemVM>
+
+<a asp-action="Create" type="button" class="btn btn-success">Create</a>
+<p></p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Fullname</th>
+            <th scope="col">Position</th>
+            <th scope="col">ImageUrl</th>
+            <th scope="col">Image</th>
+            <th scope="col">CreatedTime</th>
+            <th scope="col">IsDeleted</th>
+            <th colspan="2" scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (!Model.Any())
+        {
+            <tr>
+                <th class="text-center table-danger" colspan="9">No data</th>
+            </tr>
+        }
+        else
+        {
+            foreach(var item in Model)
+            {
+                <tr class=@(item.IsDeleted ? "table-danger" : "")>
+                    <th>@item.Id</th>
+                    <th>@item.Fullname</th>
+                    <th>@item.Position</th>
+                    <th>@item.ImageUrl</th>
+                    <th>
+                        <img height="60px" src="~/@item.ImageUrl">
+                    </th>
+                    <th>@item.CreatedTime</th>
+                    <th>@item.IsDeleted</th>
+                    <th>
+                        <a asp-action="Update" asp-route-id="@item.Id" type="button" class="btn btn-primary">Update</a>
+                    </th>
+                    <form method="post">
+                        <th>
+                        <button asp-route-id="@item.Id" asp-action="Delete" type="submit" class="btn btn-danger">Delete</button>
+                        </th>
+                    </form>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

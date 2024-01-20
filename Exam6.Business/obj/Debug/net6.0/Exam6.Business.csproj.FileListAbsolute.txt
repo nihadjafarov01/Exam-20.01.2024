@@ -1,0 +1,17 @@
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.Business\bin\Debug\net6.0\Exam6.Business.deps.json
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.Business\bin\Debug\net6.0\Exam6.Business.dll
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.Business\bin\Debug\net6.0\Exam6.Business.pdb
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.Business\bin\Debug\net6.0\Exam6.Core.dll
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.Business\bin\Debug\net6.0\Exam6.DAL.dll
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.Business\bin\Debug\net6.0\Exam6.DAL.pdb
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.Business\bin\Debug\net6.0\Exam6.Core.pdb
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.Business\obj\Debug\net6.0\Exam6.Business.csproj.AssemblyReference.cache
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.Business\obj\Debug\net6.0\Exam6.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.Business\obj\Debug\net6.0\Exam6.Business.AssemblyInfoInputs.cache
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.Business\obj\Debug\net6.0\Exam6.Business.AssemblyInfo.cs
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.Business\obj\Debug\net6.0\Exam6.Business.csproj.CoreCompileInputs.cache
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.Business\obj\Debug\net6.0\Exam6.Business.csproj.CopyComplete
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.Business\obj\Debug\net6.0\Exam6.Business.dll
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.Business\obj\Debug\net6.0\refint\Exam6.Business.dll
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.Business\obj\Debug\net6.0\Exam6.Business.pdb
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.Business\obj\Debug\net6.0\ref\Exam6.Business.dll

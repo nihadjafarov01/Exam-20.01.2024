@@ -1,0 +1,17 @@
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.DAL\bin\Debug\net6.0\Exam6.DAL.deps.json
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.DAL\bin\Debug\net6.0\Exam6.DAL.runtimeconfig.json
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.DAL\bin\Debug\net6.0\Exam6.DAL.dll
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.DAL\bin\Debug\net6.0\Exam6.DAL.pdb
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.DAL\bin\Debug\net6.0\Exam6.Core.dll
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.DAL\bin\Debug\net6.0\Exam6.Core.pdb
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.DAL\obj\Debug\net6.0\Exam6.DAL.csproj.AssemblyReference.cache
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.DAL\obj\Debug\net6.0\Exam6.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.DAL\obj\Debug\net6.0\Exam6.DAL.AssemblyInfoInputs.cache
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.DAL\obj\Debug\net6.0\Exam6.DAL.AssemblyInfo.cs
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.DAL\obj\Debug\net6.0\Exam6.DAL.csproj.CoreCompileInputs.cache
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.DAL\obj\Debug\net6.0\Exam6.DAL.csproj.CopyComplete
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.DAL\obj\Debug\net6.0\Exam6.DAL.dll
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.DAL\obj\Debug\net6.0\refint\Exam6.DAL.dll
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.DAL\obj\Debug\net6.0\Exam6.DAL.pdb
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.DAL\obj\Debug\net6.0\Exam6.DAL.genruntimeconfig.cache
+C:\Users\nihad\Downloads\Exam-20.01.2024\Exam6.DAL\obj\Debug\net6.0\ref\Exam6.DAL.dll
